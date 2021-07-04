@@ -15,6 +15,6 @@ The design of the filter is based on the windowing method which includes the nex
 2. Choosing the number of coefficients according to the specfication of the windows and the size of the transition band. The more the cefficientes, the shorter the transition period.
 
 3. Define the equation of the filter by using the inverse furier transform of an ideal window:
-
+ ![Alt text](https://github.com/Edgar-Noita/Digital-filters-and-examples-Python/blob/main/eq_2.png)
 
 
