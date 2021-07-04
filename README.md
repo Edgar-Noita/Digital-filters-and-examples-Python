@@ -9,4 +9,6 @@ This repository implements FIR-window Based functions. Files include:
 
 The design of the filter is based on the windowing method which includes the next steps:
 
-1. 
+1. Choosing the type of windoe according to the attenuation in the stop band or the ripple in the transition band 
+![Alt text]()
+
